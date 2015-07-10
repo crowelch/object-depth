@@ -13,9 +13,9 @@ $ npm install --save object-depth
 ```js
 var objectDepth = require('object-depth');
 var object = {
-	hello: 'friend',
-	nestedObject: {
-		look: 'more friends'
+	foo: 'bar',
+	baz: {
+		fizz: 'buzz'
 	}
 };
 
