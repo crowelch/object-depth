@@ -36,9 +36,15 @@ describe('object-depth', function(){
 
 	it('more complex object, depth 3', function(done) {
 		var depth = objectDepth({
-			key: 'value'
+			key: 'value',
+			rick: {
+				never: 'gonna',
+				give: {
+					you: 'up'
+				}
+			}
 		});
-		expect(depth).to.equal(1);
+		expect(depth).to.equal(3);
 		done();
 	});
 });
