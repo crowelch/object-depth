@@ -27,11 +27,11 @@ var depth = objectDepth(object);
 
 MIT © [Chris Crowell](https://github.com/crowelch)
 
-[travis-badge]: http://img.shields.io/travis//object-depth.svg?style=flat-square
-[travis-link]: https://travis-ci.org//object-depth
+[travis-badge]: http://img.shields.io/travis/crowelch/object-depth.svg?style=flat-square
+[travis-link]: https://travis-ci.org/crowelch/object-depth
 
-[gemnasium-badge]: http://img.shields.io/gemnasium//object-depth.svg?style=flat-square
-[gemnasium-link]: https://gemnasium.com//object-depth
+[gemnasium-badge]: http://img.shields.io/gemnasium/crowelch/object-depth.svg?style=flat-square
+[gemnasium-link]: https://gemnasium.com/crowelch/object-depth
 
-[coveralls-badge]: http://img.shields.io/coveralls//object-depth.svg?style=flat-square
-[coveralls-link]: https://coveralls.io/r//object-depth
+[coveralls-badge]: http://img.shields.io/coveralls/crowelch/object-depth.svg?style=flat-square
+[coveralls-link]: https://coveralls.io/r/crowelch/object-depth
